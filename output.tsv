@@ -1,0 +1,63 @@
+FILE PATH	TRANSLATION KEY	ENGLISH	GERMAN	FRENCH
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.CAPCHA	Capcha PLEASE	Captcha PLEASE	Capcha FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.ENTER_CAPCHA	Enter capcha in the box man	Bitte geben Sie die Buchstaben/Zahlen auf dem Bild ein BOXEN HARDEN	Enter capcha FR HOLA
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.INVTKN	The token has expired a while ago	Das Merkmal ist abgelaufen	The token has expired FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.SMSMIS	The code you entered does not match	Der eingegebene Code ist nicht korrekt	The code you entered does not match FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.SMSSENDERROR	Error in sending two factor authentication code.	Beim Senden des SMS-Aktievierungscodes für die Authentifizierung ist ein Fehler aufgetreten.	Error in sending two factor authentication code. FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.RESEND	Resend	SMS-Aktivierungscode erneut senden	Resend Activation Code FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.ACTIVATIONCODE	Activation Code	SMS-Aktivierungscode	Activation Code FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.SMSSENTMESSAGE	A message has been sent to your number ending with	Eine SMS wurde an die Nummer endend auf 00 versandt	A message has been sent to your number ending with FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.ENTERACTIVATIONCODE	Enter the activation code you received in the SMS	Bitte geben Sie den via SMS empfangenen Aktivierungscode ein.	Enter the activation code you received as SMS FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.VERIFY	Verify	Verifizieren	Verify FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app1\i18n	LOGIN.AND	and	und	and FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ACCESS_CODE	Access Code	Zugangscode	FR: Access Code
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ENTER_ACCESS_CODE	Enter Access Code	Bitte geben Sie den SMS-Aktivierungscode ein.	FR: Enter Access Code
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.TITLE	Login	Anmeldung	FR: Login
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.TITLE_ADMIN	Administrator Login	Administrator Anmeldung	FR: Administrator Login
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.USERNAME	Username	Benutzername	FR: Username
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.PASSWORD	Password	Passwort	FR: Password
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.LOGIN	Log in	Login	FR: Log in
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.FORGOT_PASSWORD	Forgot your Password?	Passwort vergessen?	FR: Forgot Password?
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.REMEMBER_ME	Remember Me	Zugangsdaten speichern	FR: Remember Me
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ENTER_USERNAME	Please enter your username.	Bitte geben Sie Ihren Benutzernamen ein.	FR: Please enter your username.
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ENTER_PASSWORD	Please enter your password.	Bitte geben Sie Ihr Passwort ein.	FR: Please enter your password.
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ENTER_CONFIRM_PASSWORD	Please confirm your password	Bitte bestätigen Sie Ihr Passwort.	FR: Please confirm your password
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.TITLE_FORGOT	Forgot Password	Passwort vergessen	FR: Forgot Password
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.EMAIL	Email	DE: E-Mail	FR: Email
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ENTER_EMAIL	Please enter your email address.	Bitte geben Sie Ihre E-Mail-Adresse ein.	FR: Please enter your email address.
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.EMAIL_INFORM_MESSAGE	An email has been sent to your account. Please check it to reset your password.	Eine E-Mail mit weiteren Instruktionen für das Zurücksetzen des Passworts wurde gesendet.	FR: An email has been sent to your account. Please check it to reset your password.
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.AGREE_MSG	By signing in, you are agreeing to the	Mit Ihrer Anmeldung stimmen Sie [...] zu	FR: By signing in, you are agreeing to the
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.INVALID_EMAIL_MESSAGE	Please enter a valid email address.	Bitte geben Sie eine gültige E-Mail-Adresse ein	FR: Please enter a valid email address.
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.RESET	Reset	Zurücksetzen	FR: Reset
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ERROR_LOGIN	Unauthorized	Beim Anmelden ist ein Fehler aufgetreten	Unauthorized
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.RESET_SUCCESSFUL	Password Reset Successful	Ihr Passwort wurde erfolgreich zurückgesetzt	FR: Password Reset Successful
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.RESET_FAILED	Couldn't reset password	Leider konnte das Passwort konnte nicht zurückgesetzt werden	FR: Couldn't reset password
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.PASSWORD_RESET_SUCCESS	Your password has been reset successfully.	Das Passwort wurde erfolgreich zurückgesetzt	FR: Your password has been reset successfully.
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.SIGNUP	Sign Up Now	Registrieren Now	FR: Sign Up Now
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.LOGIN_WITH	Or login with	oder melden Sie sich mit [...] an	FR: Or login with
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.NOT_LOGED	Don't have an account?	Haben Sie noch kein Konto?	FR: Don't have an account?
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.NEW_PASSWORD	Type new password	Bitte geben Sie ein neues Passwort ein	FR: Type new password
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.FREE	It's free	Es ist kostenlos	FR: It's free
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.ERROR_SAME_PASSWORD	Confirm password didn't match	Die Passwörter stimmen nicht überein	FR: Confirm password didn't match
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.FACEBOOK	Facebook	Facebook	FR: Facebook
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.PRIVACY_POLICY	Privacy Policy	Datenschutzerklärung	FR: Privacy Policy
+C:\Users\al.amin\Desktop\JSON to CSV\app\app2\i18n	LOGIN.TWITTER	Twitter	Twitter	FR: Twitter
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.SOUNDCLOUD	Soundcloud	Soundcloud	Soundcloud
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.TERMS_OF_SERVICE	Terms of Service	Allgemeine Geschäftsbedingungen	Terms of Service FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.TYPE_NEW_PASSWORD	Set new password	Neues Passwort festlegen	Set new password FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.RETYPE_NEW_PASSWORD	Retype new password	Neues Passwort erneut eingeben	Retype new password FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.WEAK_PASSWORD	Password is too weak	Das von Ihnen angegebene Passwort ist nicht stark genug. Bitte benutzen Sie mindestens einen Klein-, einen Grossbuchstaben und eine Zahl.	Password is too weak FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.LINK_VERIFY_FAIL_MESSAGE	Authentication link is not valid.	Dieser Authentifikationslink ist ungültig.	Authentication link is not valid. FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.PASSWORD_WEAK	Password must be within 6 to 15 characters. Must include one UPPERCASE letter, one lowercase letter and one digit.	Das Passwort muss zwischen 6 und 15 Zeichen lang sein und mindestens einen Gross- und einen Kleinbuchstaben und eine Zahl enthalten.	Password must be within 6 to 15 characters. Must include one UPPERCASE letter, one lowercase letter and one digit. FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.CANCEL	Cancel	Abbrechen	Cancel FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.EMAIL_SEND_SUCCESS	Please check your email to complete registration process.	Bitte überprüfen Sie Ihren E-Mail-Eingang, um die Registrierung abzuschliessen.	Please check your email to complete registration process. FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.EMAIL_SETUP	Email Setup	E-Mail Einstellungen	Email Setup FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.ENTER_EMAIL_MESSAGE	Please enter your email address to complete social login process	Bitte geben Sie ihre E-Mail-Adresse ein, um den Login-Prozess abzuschliessen.	Please enter your email address to complete social login process FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.OK	Ok	Ok	Ok FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.SIGNUP_NOW	Sign Up Now	Jetzt anmelden	Sign Up Now FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.ERROR_CAPTCHA	Captcha did not match	Leider stimmt das Captcha nicht mit Ihrer Eingabe überein	Captcha did not match FR
+C:\Users\al.amin\Desktop\JSON to CSV\app\app3\i18n	LOGIN.HAVING_TROUBLE	Having trouble?	Bei Problemen helfen wir Ihnen gerne auf info@creditworld.ch oder unter 044 520 99 59 weiter	Having trouble FR
+C:\Users\al.amin\Desktop\JSON to CSV\i18n\app	key_1.translation_1	hello	DE: hello	FR: hello
+C:\Users\al.amin\Desktop\JSON to CSV\i18n\app	key_1.translation_2	hello2	DE: hello2	FR: hello2
+C:\Users\al.amin\Desktop\JSON to CSV\i18n\app	key_1.translation_3	hello3	DE: hello3	FR: hello3
+C:\Users\al.amin\Desktop\JSON to CSV\i18n\app	key_1.translation_4	hello4	DE: hello4	FR: hello4

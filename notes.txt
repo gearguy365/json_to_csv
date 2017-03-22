@@ -1,0 +1,8 @@
+1. should be proper NPM package for global use
+2. package name : "@ecap/translation-helper"
+3. translation export/import from specific folder.
+4. error handling (invalid JSON/ localization files not found)
+5. dynamically detect translation files in i18n folder
+6. in .tsv file, file location should be the last column.
+7. during import prompt yes/no confirmation.
+8. implement relative path file read/write.

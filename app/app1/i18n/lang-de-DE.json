@@ -1,0 +1,15 @@
+{
+    "LOGIN": {
+        "CAPCHA": "Captcha PLEASE",
+        "ENTER_CAPCHA": "Bitte geben Sie die Buchstaben/Zahlen auf dem Bild ein BOXEN HARDEN",
+        "INVTKN": "Das Merkmal ist abgelaufen",
+        "SMSMIS": "Der eingegebene Code ist nicht korrekt",
+        "SMSSENDERROR": "Beim Senden des SMS-Aktievierungscodes für die Authentifizierung ist ein Fehler aufgetreten.",
+        "RESEND": "SMS-Aktivierungscode erneut senden",
+        "ACTIVATIONCODE": "SMS-Aktivierungscode",
+        "SMSSENTMESSAGE": "Eine SMS wurde an die Nummer endend auf 00 versandt",
+        "ENTERACTIVATIONCODE": "Bitte geben Sie den via SMS empfangenen Aktivierungscode ein.",
+        "VERIFY": "Verifizieren",
+        "AND": "und"
+    }
+}

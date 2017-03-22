@@ -1,0 +1,15 @@
+{
+    "LOGIN": {
+        "CAPCHA": "Capcha PLEASE",
+        "ENTER_CAPCHA": "Enter capcha in the box man",
+        "INVTKN": "The token has expired a while ago",
+        "SMSMIS": "The code you entered does not match",
+        "SMSSENDERROR": "Error in sending two factor authentication code.",
+        "RESEND": "Resend",
+        "ACTIVATIONCODE": "Activation Code",
+        "SMSSENTMESSAGE": "A message has been sent to your number ending with",
+        "ENTERACTIVATIONCODE": "Enter the activation code you received in the SMS",
+        "VERIFY": "Verify",
+        "AND": "and"
+    }
+}
